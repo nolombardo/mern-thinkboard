@@ -1,3 +1,28 @@
-# Note-Taking Application
+# Note-Taking App
 
-This full stack note-taking application was developed by following this MERN stack tutorial on the freeCodeCamp YouTube channel: https://www.youtube.com/watch?v=F9gB5b4jgOI&t=4007s
+A simple browser-based note-taking application that allows users to create, edit, and delete notes stored in a NoSQL database.
+
+## Features
+
+* Create and delete notes
+* Persistent storage using a NoSQL database
+* Responsive layout
+* Rate limiting
+
+## Built With
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Express
+* Node.js
+* MongoDB
+
+## Learning Context
+
+This project was built while following a YouTube tutorial as a learning exercise. After completing the tutorial, I modified styling and structure to better understand how the components work together.
+
+## Purpose
+
+This project helped reinforce concepts such as LocalStorage usage, dynamic DOM updates, and UI state persistence.
